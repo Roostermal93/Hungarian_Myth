@@ -1,1 +1,28 @@
-ew0KICAgICJjb3VudCI6IDMsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICIyNjBmNDVlNi1mYzhkLTQyY2ItYjdjZS03M2MyZWZiNGRlNGMiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJIdW5nYXJpYW4iLA0KICAgICAgICAgICAgInR5cGUiOiAiTXl0aCIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9NeXRoL0h1bmdhcmlhbi8yNjBmNDVlNi1mYzhkLTQyY2ItYjdjZS03M2MyZWZiNGRlNGMvMjYwZjQ1ZTYtZmM4ZC00MmNiLWI3Y2UtNzNjMmVmYjRkZTRjLm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogIjUwOGI3MTk1LTMzYzctNDY4OC1iMjUyLWVkZGJhYWJkN2E2NyIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkh1bmdhcmlhbiIsDQogICAgICAgICAgICAidHlwZSI6ICJNeXRoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L015dGgvSHVuZ2FyaWFuLzUwOGI3MTk1LTMzYzctNDY4OC1iMjUyLWVkZGJhYWJkN2E2Ny81MDhiNzE5NS0zM2M3LTQ2ODgtYjI1Mi1lZGRiYWFiZDdhNjcubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiMGUxMDdmMTQtZDc0MC00ZjkzLWEwMmEtYzFhNjU0MGRjNGNhIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiSHVuZ2FyaWFuIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk15dGgiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTXl0aC9IdW5nYXJpYW4vMGUxMDdmMTQtZDc0MC00ZjkzLWEwMmEtYzFhNjU0MGRjNGNhLzBlMTA3ZjE0LWQ3NDAtNGY5My1hMDJhLWMxYTY1NDBkYzRjYS5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "260f45e6-fc8d-42cb-b7ce-73c2efb4de4c",
+            "collectionId": "Hungarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hungarian/Hungarian_Myth/260f45e6-fc8d-42cb-b7ce-73c2efb4de4c/260f45e6-fc8d-42cb-b7ce-73c2efb4de4c_hu_Female.mp4"
+        },
+        {
+            "id": "508b7195-33c7-4688-b252-eddbaabd7a67",
+            "collectionId": "Hungarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hungarian/Hungarian_Myth/508b7195-33c7-4688-b252-eddbaabd7a67/508b7195-33c7-4688-b252-eddbaabd7a67_hu_Female.mp4"
+        },
+        {
+            "id": "0e107f14-d740-4f93-a02a-c1a6540dc4ca",
+            "collectionId": "Hungarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hungarian/Hungarian_Myth/0e107f14-d740-4f93-a02a-c1a6540dc4ca/0e107f14-d740-4f93-a02a-c1a6540dc4ca_hu_Female.mp4"
+        }
+    ]
+}
